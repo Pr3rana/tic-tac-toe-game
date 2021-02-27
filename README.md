@@ -1,4 +1,4 @@
-# This app uses ES6, react functional component and react hooks
+# This app uses ES6, react functional component and hooks
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
